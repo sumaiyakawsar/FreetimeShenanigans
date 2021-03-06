@@ -71,6 +71,7 @@ body main .article a.button {
   line-height: 21px;
   letter-spacing: -0.035em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 @media screen and (max-width: 900px) {
   body main .article {
